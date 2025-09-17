@@ -42,7 +42,8 @@
 ## 🌍 Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/miquelneck)  
 - ✍️ [Medium](https://medium.com/@miquelneck)  
-- 📄 [Download CV](./CV.pdf)
+- 📄 [Download CV - English](./Miquel-Coll-CV-EN.pdf)
+- 📄 [Download CV - Spanish](./Miquel-Coll-CV-ES.pdf)
 
 ---
 
