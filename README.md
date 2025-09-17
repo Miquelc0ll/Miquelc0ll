@@ -42,7 +42,7 @@
 ## 🌍 Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/miquelneck)  
 - ✍️ [Medium](https://medium.com/@miquelneck)  
-- 📄 [Download CV](./CV.pdf) (always up to date!)  
+- 📄 [Download CV](./CV.pdf)
 
 ---
 
